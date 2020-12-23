@@ -1,20 +1,12 @@
 # Conda environment with environment.yml
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/trailmarkerlib/dataExplore/HEAD
-
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trailmarkerlib/dataExplore/HEAD)
-
-# delete
-
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb)
-
-A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb
+https://mybinder.org/v2/gh/trailmarkerlib/dataExplore/HEAD
+
+<!--
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
@@ -37,3 +29,5 @@ be removed are:
 * appnope=0.1.0
 * libgfortran=3.0.1
 * libcxx=4.0.1
+
+-->
