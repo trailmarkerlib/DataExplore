@@ -1,3 +1,15 @@
+# Conda environment with environment.yml
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trailmarkerlib/exploreDataPython/HEAD)
+
+Access this Binder by clicking the blue badge above or at the following URL:
+
+https://mybinder.org/v2/gh/trailmarkerlib/exploreDataPython/HEAD
+
+This repository contains interactive jupytor notebooks based on the book <i>Python for Everybody: Exploring Data in Python 3</i> by Charles Severance. Access the book and lessons related to the book <a href="https://www.py4e.com/" target="Blank">here</a>.
+
+<!--
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/trailmarkerlib/DataExplore/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +47,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+-->
