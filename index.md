@@ -1,12 +1,12 @@
-# Conda environment with environment.yml
+This repository contains interactive jupytor notebooks based on the book <i>Python for Everybody: Exploring Data in Python 3</i> by Charles Severance. Access the book and lessons related to the book <a href="https://www.py4e.com/" target="Blank">here</a>.
+
+### Conda environment with environment.yml
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trailmarkerlib/exploreDataPython/HEAD)
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
 https://mybinder.org/v2/gh/trailmarkerlib/exploreDataPython/HEAD
-
-This repository contains interactive jupytor notebooks based on the book <i>Python for Everybody: Exploring Data in Python 3</i> by Charles Severance. Access the book and lessons related to the book <a href="https://www.py4e.com/" target="Blank">here</a>.
 
 <!--
 
